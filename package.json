@@ -1,0 +1,19 @@
+{
+  "name": "journalapp",
+  "version": "1.0.0",
+  "description": "A journal application that allows all CRUD operations, built with PHP and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferHaren/journalApp.git"
+  },
+  "author": "Jennifer Haren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferHaren/journalApp/issues"
+  },
+  "homepage": "https://github.com/JenniferHaren/journalApp#readme"
+}
